@@ -1,9 +1,0 @@
-C:\VivekOHIATFS\Analytic Solutions\DEV\CasXMLToJsonParser\CasXMLToJsonParser\bin\Debug\CasXMLToJsonParser.exe.config
-C:\VivekOHIATFS\Analytic Solutions\DEV\CasXMLToJsonParser\CasXMLToJsonParser\bin\Debug\CasXMLToJsonParser.exe
-C:\VivekOHIATFS\Analytic Solutions\DEV\CasXMLToJsonParser\CasXMLToJsonParser\bin\Debug\CasXMLToJsonParser.pdb
-C:\VivekOHIATFS\Analytic Solutions\DEV\CasXMLToJsonParser\CasXMLToJsonParser\obj\Debug\CasXMLToJsonParser.exe
-C:\VivekOHIATFS\Analytic Solutions\DEV\CasXMLToJsonParser\CasXMLToJsonParser\obj\Debug\CasXMLToJsonParser.pdb
-C:\VivekOHIATFS\Analytic Solutions\DEV\CasXMLToJsonParser\CasXMLToJsonParser\bin\Debug\Newtonsoft.Json.dll
-C:\VivekOHIATFS\Analytic Solutions\DEV\CasXMLToJsonParser\CasXMLToJsonParser\bin\Debug\Newtonsoft.Json.xml
-C:\VivekOHIATFS\Analytic Solutions\DEV\CasXMLToJsonParser\CasXMLToJsonParser\bin\Debug\log4net.dll
-C:\VivekOHIATFS\Analytic Solutions\DEV\CasXMLToJsonParser\CasXMLToJsonParser\bin\Debug\log4net.xml
